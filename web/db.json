@@ -1,0 +1,174 @@
+{
+  "transactions": [
+    {
+      "id": "5",
+      "valor": 150,
+      "dataVencimento": "2024-10-25",
+      "descricao": "Plano de saúde",
+      "categoria": "saúde",
+      "repeteMensalmente": true,
+      "tipo": "payment"
+    },
+    {
+      "id": "6",
+      "valor": 80,
+      "dataVencimento": "2024-10-01",
+      "descricao": "Netflix e Spotify",
+      "categoria": "streams",
+      "repeteMensalmente": true,
+      "tipo": "payment"
+    },
+    {
+      "id": "7",
+      "valor": 300,
+      "dataVencimento": "2024-10-12",
+      "descricao": "Curso de inglês",
+      "categoria": "educação",
+      "repeteMensalmente": true,
+      "tipo": "payment"
+    },
+    {
+      "id": "8",
+      "valor": 1000,
+      "dataVencimento": "2024-10-30",
+      "descricao": "Parcela do terreno",
+      "categoria": "terreno",
+      "repeteMensalmente": true,
+      "tipo": "payment"
+    },
+    {
+      "id": "9",
+      "valor": 200,
+      "dataVencimento": "2024-10-18",
+      "descricao": "Roupas de inverno",
+      "categoria": "roupas",
+      "repeteMensalmente": false,
+      "tipo": "receipt"
+    },
+    {
+      "id": "10",
+      "valor": 800,
+      "dataVencimento": "2024-10-22",
+      "descricao": "Novo smartphone",
+      "categoria": "eletronicos",
+      "repeteMensalmente": false,
+      "tipo": "receipt"
+    },
+    {
+      "id": "11",
+      "valor": 1200,
+      "dataVencimento": "2024-10-28",
+      "descricao": "Viagem de fim de semana",
+      "categoria": "viagem",
+      "repeteMensalmente": false,
+      "tipo": "receipt"
+    },
+    {
+      "id": "12",
+      "valor": 50,
+      "dataVencimento": "2024-10-08",
+      "descricao": "Presente de aniversário",
+      "categoria": "outros",
+      "repeteMensalmente": false,
+      "tipo": "receipt"
+    },
+    {
+      "id": "13",
+      "valor": 400,
+      "dataVencimento": "2024-10-16",
+      "descricao": "Fatura do cartão de crédito",
+      "categoria": "cartoes",
+      "repeteMensalmente": true,
+      "tipo": "payment"
+    },
+    {
+      "id": "14",
+      "valor": 100,
+      "dataVencimento": "2024-10-03",
+      "descricao": "Ingresso para show",
+      "categoria": "evento",
+      "repeteMensalmente": false,
+      "tipo": "receipt"
+    },
+    {
+      "id": "2c4a",
+      "descricao": "Teste",
+      "valor": 2500,
+      "dataVencimento": "1999-03-29",
+      "categoria": "cartoes",
+      "repeteMensalmente": true,
+      "tipo": "payment"
+    },
+    {
+      "id": "cc3a",
+      "descricao": "Conta de água",
+      "valor": -41,
+      "dataVencimento": "2024-11-21",
+      "categoria": "agua",
+      "repeteMensalmente": false,
+      "tipo": "payment"
+    }
+  ],
+  "categories": [
+    {
+      "name": "emprestimo",
+      "color": "#FFCC00"
+    },
+    {
+      "name": "cartoes",
+      "color": "#FF5733"
+    },
+    {
+      "name": "terreno",
+      "color": "#33FF57"
+    },
+    {
+      "name": "agua",
+      "color": "#3399FF"
+    },
+    {
+      "name": "energia",
+      "color": "#FF33A1"
+    },
+    {
+      "name": "moradia",
+      "color": "#FF33D4"
+    },
+    {
+      "name": "outros",
+      "color": "#FF8C00"
+    },
+    {
+      "name": "evento",
+      "color": "#8C00FF"
+    },
+    {
+      "name": "eletronicos",
+      "color": "#00FF8C"
+    },
+    {
+      "name": "viagem",
+      "color": "#00A1FF"
+    },
+    {
+      "name": "roupas",
+      "color": "#FF00A1"
+    },
+    {
+      "name": "streams",
+      "color": "#A100FF"
+    },
+    {
+      "name": "educação",
+      "color": "#00FF00"
+    },
+    {
+      "name": "saúde",
+      "color": "#00FF33"
+    },
+    {
+      "name": "transporte",
+      "color": "#FF3300"
+    }
+  ]
+}
